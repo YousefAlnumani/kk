@@ -1,14 +1,14 @@
-##Hakim - AI-Powered Legal Consultation
-Hakim simplifies legal consultations using Allam LLM for precise Arabic legal advice. Our solution integrates advanced NLP, real-time data retrieval, and a user-friendly chatbot to revolutionize legal assistance.
+# Hakim - AI-Powered Legal Consultation
 
+**Hakim** uses **Allam LLM** to simplify legal consultations in Arabic, providing fast, accurate, and context-aware legal advice through a smart and intuitive chatbot interface.
 
-##Key Features
-🚀 Instant Legal Advice: Fast, context-aware responses in Arabic.
-🔍 Smart Search: Semantic case retrieval with FAISS and Elasticsearch.
-🧠 Allam LLM: Accurate, summarized legal insights.
+## Key Features
+- 🚀 **Instant Legal Advice**: Quick and reliable responses in Arabic.
+- 🔍 **Smart Search**: Semantic case retrieval using FAISS and Elasticsearch.
+- 🧠 **Allam LLM**: Summarized legal insights tailored for complex queries.
 
-##Tech Stack
-Frontend: Angular
-Backend: FastAPI (Python)
-NLP: Allam LLM, FAISS, Elasticsearch
-Deployment: Docker, AWS
+## Tech Stack
+- **Frontend**: Angular
+- **Backend**: FastAPI (Python)
+- **NLP**: Allam LLM, FAISS, Elasticsearch
+- **Deployment**: Docker, AWS
